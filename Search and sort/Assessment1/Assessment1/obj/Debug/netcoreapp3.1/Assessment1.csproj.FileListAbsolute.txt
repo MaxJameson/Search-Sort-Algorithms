@@ -1,0 +1,24 @@
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.exe
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.deps.json
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.runtimeconfig.json
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.runtimeconfig.dev.json
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.dll
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.pdb
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.csprojAssemblyReference.cache
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.AssemblyInfoInputs.cache
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.AssemblyInfo.cs
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.dll
+C:\Users\maxja\source\repos\Uni-repos\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.pdb
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.exe
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.deps.json
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.runtimeconfig.json
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.runtimeconfig.dev.json
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.dll
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.pdb
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.csprojAssemblyReference.cache
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.csproj.CoreCompileInputs.cache
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.AssemblyInfoInputs.cache
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.AssemblyInfo.cs
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.dll
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.pdb
+F:\University\Year 1 - DONE\Semester 2 - DONE\CMP1124M - Algorithms and Complexity\Assessment 1\Assessment 1 - source code\Assessment1\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.genruntimeconfig.cache
